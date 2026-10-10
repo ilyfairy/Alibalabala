@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src\Alibalabala.Core\Alibalabala.Core.csproj" />
+  <Project Path="src\Alibalabala.Demo\Alibalabala.Demo.csproj" />
+  <Project Path="src\Alibalabala.CommandLine\Alibalabala.CommandLine.csproj" />
+  <Project Path="src\Alibalabala.Mcp\Alibalabala.Mcp.csproj" />
+</Solution>

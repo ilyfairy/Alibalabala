@@ -1,0 +1,29 @@
+# 构建产物
+**/bin/
+**/obj/
+artifacts/
+
+# IDE 文件
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.rsuser
+*.sln.iml
+
+# 日志和本地工具输出
+*.log
+*.binlog
+
+# 包文件和发布产物
+*.nupkg
+*.snupkg
+publish/
+
+# 测试和覆盖率输出
+TestResults/
+coverage/
+
+# 本地运行凭据
+config.json
